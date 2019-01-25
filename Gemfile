@@ -9,7 +9,7 @@ gem "bootsnap", require: false
 gem "pg"
 gem "puma"
 gem "rack-canonical-host"
-gem "rails", "~> 5.2.2"
+gem "rails", "~> 6.0.0.beta1"
 
 # Front-endy
 gem "autoprefixer-rails"
